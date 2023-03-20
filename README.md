@@ -18,6 +18,8 @@ For User:
  - **Revolutionize the way we approach road safety** and make a significant impact on **saving lives.**
 
 For Admin:
+
+Using Rollbased Access Control (RABC) Mechanism
  ```mermaid
 graph TD;
     RABC-->ADMIN;
