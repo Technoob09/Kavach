@@ -33,7 +33,10 @@ graph TD;
 Usage of Kavach:-
 
 For User:
- -
+
+ ![My Image]() 
+
 
 For Admin:
+
  ![My Image]()
