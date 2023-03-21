@@ -34,26 +34,27 @@ Usage of Kavach:-
 
 For User:
 
-As soon as you open the application the following screen will show up and if there is an emergency immediately report to police and hospital and you can even navigate your near by hospital and police station.
+- As soon as you open the application the following screen will show up and if there is an emergency immediately report to police and hospital and you can even navigate your near by hospital and police station.
 
  ![My Image](01.jpg) ![My Image](02.jpg)
  
-The below navigation screen will show up and indicate us about potholes in the area
+- The below navigation screen will show up and indicate us about potholes in the area
 
  ![My Image](03.jpg)
 
-If the user want report an issue about Bad Road Condition & Violation of Law the Report option is available and the user need to fill survey form for the same.The appropriate Bounty Points will be provided after properly examine the report by higher authority.
+- If the user want report an issue about Bad Road Condition & Violation of Law the Report option is available and the user need to fill survey form for the same.The appropriate Bounty Points will be provided after properly examine the report by higher authority.
 
  ![My Image](04.jpg) ![My Image](05.jpg) ![My Image](06.jpg)
  
-In case of user want assitance about nearby Mechanics,Petrol Pump and Chauffer the Assitance option is given
+- In case of user want assitance about nearby Mechanics,Petrol Pump and Chauffer the Assitance option is given
 
  ![My Image](07.jpg) ![My Image](08.jpg) ![My Image](09.jpg)
  
-The profile option contains the details of the application user and bounty points awarded to them for their contribution.
+- The profile option contains the details of the application user and bounty points awarded to them for their contribution.
 
-![My Image](10.jpg)
+ ![My Image](10.jpg)
  
+
 
 For Admin:
 
