@@ -57,4 +57,4 @@ The profile option contains the details of the application user and bounty point
 
 For Admin:
 
- ![My Image]()
+ ![My Image](admin.jpg)
