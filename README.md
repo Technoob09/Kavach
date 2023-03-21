@@ -34,7 +34,7 @@ Usage of Kavach:-
 
 For User:
 
- ![My Image](01.jpg) 
+ ![My Image](01.jpg) ![My Image](01.jpg)
 
 
 For Admin:
