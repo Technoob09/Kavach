@@ -58,4 +58,6 @@ For User:
 
 For Admin:
 
+- The Admin panel is based on Rollbased Access Control Mechanism (RBAC) which will show the issue list to the admin and admin will transfer the issue to the respective authority. 
+
  ![My Image](admin.jpg)
