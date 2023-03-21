@@ -50,14 +50,10 @@ In case of user want assitance about nearby Mechanics,Petrol Pump and Chauffer t
 
  ![My Image](07.jpg) ![My Image](08.jpg) ![My Image](09.jpg)
  
-The profile option contains the details of the application user and bounty points awarded.
+The profile option contains the details of the application user and bounty points awarded to them for their contribution.
 
 ![My Image](10.jpg)
  
-
- 
- 
-
 
 For Admin:
 
