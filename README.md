@@ -34,7 +34,7 @@ Usage of Kavach:-
 
 For User:
 
-As soon as you open the application the following screen will show up and if there is an emergency immediately report to police or hospital 
+As soon as you open the application the following screen will show up and if there is an emergency immediately report to police and hospital and you can even navigate your near by hospital and police station.
 
  ![My Image](01.jpg) ![My Image](02.jpg)
  
