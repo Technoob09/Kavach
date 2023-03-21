@@ -8,7 +8,7 @@ Objectives:-
  - In case of any **violations, police and other stakeholders may take an action** on to the issue raised by the app.
  - The solution should **help to prevent accidents** as well.
 
-Usage of Kavach:-
+Features of Kavach:-
 
 For User:
  - Allows users to **report accidents easily and without hassle.**
@@ -29,3 +29,11 @@ graph TD;
     ADMIN-->FIRE_BRIGADE;
     ADMIN-->TOW_TRUCK;
 ```  
+
+Usage of Kavach:-
+
+For User:
+ -
+
+For Admin:
+ ![My Image]()
